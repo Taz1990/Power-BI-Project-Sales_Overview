@@ -9,7 +9,7 @@ The dataset is based on Microsoft's **AdventureWorks** sample database, which co
 The goal of this project is to analyze company sales performance across multiple dimensions, track performance against budget, and present insights through an interactive Power BI dashboard.
 
 ## Dashboard Preview
-![Sales Overview Dashboard](dashboard.jpg)  
+![Sales Overview Dashboard] 
 https://github.com/Taz1990/Power-BI-Project-Sales_Overview/blob/main/Sales_overview.jpg
 
 ## Key Insights
